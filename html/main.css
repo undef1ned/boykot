@@ -1,0 +1,14 @@
+body {
+	background-color: #FF0000;
+}
+
+@media (min-width: 768px) {
+	.container {
+		max-width: 730px;
+	}
+}
+
+.container {
+	margin-top: 3em;
+	text-align: center;
+}
